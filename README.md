@@ -12,7 +12,7 @@ This repository holds the computational magic behind our report, showing how we 
 
 You'll find code written in both Python and MATLAB, because sometimes you need the right tool for the right job (and it's fun to see how different tools approach the same problem!).
 
-- `first_pass.ipynb` & `python_code.ipynb`: Our adventures in Python! These Jupyter notebooks contain code exploring the SC transformation using libraries like `mpmath` for complex arithmetic and integration, and `scipy` for solving the tricky parameter problem. Dive in to see the step-by-step process!
+- `python_code.ipynb`: Our adventures in Python! These Jupyter notebooks contain code exploring the SC transformation using libraries like `mpmath` for complex arithmetic and integration, and `scipy` for solving the tricky parameter problem. Dive in to see the step-by-step process!
 - `.m` files (`kish3.m`, `mona3.m`, `sean3.m`, `figure1.m`, `figure2.m`, `figure3.m`, `corner.m`, `sc_uniform_flow.m`, etc.): MATLAB scripts and functions! Many of our visualizations and parameter solving were done using the powerful Schwarz-Christoffel Toolbox in MATLAB. These files are often set up to generate specific examples or figures mentioned in the report.
 - `images/` & `final_images/`: Look here for some of the visual outputs and perhaps source images used in the project. See the warped shapes and the pretty streamlines!
 - `archive/`: Like any good project, there's a place for older versions or experimental code. Probably not what you're looking for first! 😉
@@ -50,7 +50,7 @@ Curious about how a specific figure in our report was made? Many of the `.m` fil
 
 ## Acknowledgements
 
-A huge thanks to our instructors, [Professor Names, e.g., Professor Kish and Professor Nixon], for guiding us through the fascinating world of complex analysis and conformal mapping!
+A huge thanks to our instructors, Professor Kish and Nixon, for guiding us through the fascinating world of complex analysis and conformal mapping!
 
 ---
 
